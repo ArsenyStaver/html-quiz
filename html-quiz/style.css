@@ -1,0 +1,32 @@
+body{ 
+  background: linear-gradient(135deg, #f9f9ff 25%, transparent 25%) , linear-gradient(45deg, #f9f9ff 25%, transparent 25%) ,linear-gradient(135deg, transparent 24%,#4f46e5 25%, #4f46e5 30%, transparent 31%, transparent 39%,#4f46e5 40%, #4f46e5 45%, transparent 45%),linear-gradient(45deg, transparent 24%,#4f46e5 25%, #4f46e5 30%, transparent 31%, transparent 39%,#4f46e5 40%, #4f46e5 45%, transparent 45%);
+  background-size: 3em 3em;
+  background-color: #f9f9ff;
+  /* opacity: 0.45 */
+}
+
+.rec{
+  position: relative;
+	width: 400px;
+	height: 300px;
+	background: white;
+
+}
+
+.rec2{
+  position: relative;
+	width: 1100px;
+	height: 300px;
+	background: white;
+
+}
+
+.text{
+  position: absolute;
+  top: 20px;
+  left: 30px;
+}
+
+
+
+
